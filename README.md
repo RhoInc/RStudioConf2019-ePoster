@@ -1,6 +1,6 @@
 # Modernizing the Clinical Trial Analysis Pipeline with R and JavaScript
 
-This repo contains the [slides](https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioPoster_presented.pptx) and [abstract](https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioConf_abstract.docx) for the ePoster presented at Rstudio::conf 2019. I've also copied some of the content from the poster in to this readme below. 
+This repo contains the [slides](https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioPoster_presented.pptx) and [abstract](https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioConf_abstract.docx) for the ePoster presented at Rstudio::conf 2019. I've also adapted some of the presentation in to markdown below. 
 
 ## Capsule Summary
 
@@ -46,7 +46,11 @@ We're working to create interactive tools that are:
 
 Both [safetyGraphics](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safetyGraphics) and [datadigest](https://github.com/RhoInc/datadigest) were created using these principles and are available now. 
 
-## Example #1 - safetyGraphics
+## Examples 
+
+The [safetyGraphics](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safetyGraphics) and [datadigest](https://github.com/RhoInc/datadigest) repos were created using the "solutions" described above and are available now. 
+
+### safetyGraphics
 
 The safetyGraphics R package that allows users to evaluate clinical trial safety in R. These specialized graphics use lab data from clinical trials (AdAM or SDTM preferred). It's currently under development, but will be up on CRAN soon! To learn more you can:
 
@@ -59,7 +63,7 @@ The safetyGraphics R package that allows users to evaluate clinical trial safety
 
 ![edishapp-take2_smallish](https://user-images.githubusercontent.com/3680095/51296057-e3195380-19df-11e9-971a-430c3be930a4.gif)
 
-## Example #2 - datadigest
+### datadigest
 
 The datadigest R package creates concise interactive data summaries in R. We think this package is great for reviewing clinical trial data, but it works great with any other data domain as well and requires no configuration for most data. To learn more you can:
 
@@ -73,4 +77,4 @@ The datadigest R package creates concise interactive data summaries in R. We thi
 
 Jeremy Wildfire presented the poster. You can reach him at jeremy_wildfire@rhoworld.com with questions or comments. The full author list (with github ids) is: Jeremy Wildfire (@jwildfire), Rebecca Krouse (@bzkrouse), Preston Burns (@pburnsdata), Ryan Bailey(@rtbailey), Spencer Childress (@samussiah), Susan Duke (@spduke), James Buchanan (@JimBuchanan), Xiao Ni (@xni7), Frank Harrell (@harrelfe)
 
-The safetyGraphics and safety-edish projects are maintained by the ASA Biopharm/DIA Safety Working Group’s Interactive Safety Graphics Taskforce, which combines stakeholders from across the pharmaceutical industry, including the FDA. All other work done by The Center for Interactive Data Visualization at Rho. All work is free and open source with an MIT License. Author Affiliations are as follows with an "*" indicating Safety Graphics Taskforce members:  J Wildfire (Rho*), Rebecca Krouse (Rho*), Preston Burns (Rho), Ryan Bailey (Rho), Spencer Childress (Rho), Susan Duke (FDA*), James Bucanan (Covilance*), Xiao Ni (Novartis*), Frank Harrell (Vanderbilt*)
+The safetyGraphics and safety-edish projects are maintained by the ASA Biopharm/DIA Safety Working Group’s Interactive Safety Graphics Taskforce, which combines stakeholders from across the pharmaceutical industry, including the FDA. All other work done by The Center for Interactive Data Visualization at [Rho](http://www.rhoworld.com/). All work is free and open source with an MIT License. Author Affiliations are as follows with an astericks indicating Safety Graphics Taskforce members:  J Wildfire (Rho*), Rebecca Krouse (Rho*), Preston Burns (Rho), Ryan Bailey (Rho), Spencer Childress (Rho), Susan Duke (FDA*), James Bucanan (Covilance*), Xiao Ni (Novartis*), Frank Harrell (Vanderbilt*)
