@@ -1,6 +1,6 @@
 # Modernizing the Clinical Trial Analysis Pipeline with R and JavaScript
 
-This repo contains the [slides](https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioPoster_presented.pptx) and [abstract](https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioConf_abstract.docx) for the ePoster presented at Rstudio::conf 2019. I've also adapted some of the presentation in to markdown below. 
+This repo contains the [slides](https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioPoster_presented.pptx) and [abstract](https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioConf_abstract.docx) for the ePoster presented at Rstudio::conf 2019. I've also adapted some of the material from the presentation in to markdown below. 
 
 ## Capsule Summary
 
