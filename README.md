@@ -8,7 +8,7 @@ We introduced two R packages for use in clinical trial research: [safetyGraphics
 
 ``` 
 # safetyGraphics demo
-devtools::install_github("ASA-DIA-InteractiveSafetyGraphics/safetyGraphics") 
+install.packages("safetyGraphics") 
 library("safetyGraphics") 
 safetyGraphicsApp()
 
@@ -52,13 +52,15 @@ The [safetyGraphics](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safety
 
 ### safetyGraphics
 
-The safetyGraphics R package that allows users to evaluate clinical trial safety in R. These specialized graphics use lab data from clinical trials (AdAM or SDTM preferred). It's currently under development, but will be up on CRAN soon! To learn more you can:
+The safetyGraphics R package that allows users to evaluate clinical trial safety in R. These specialized graphics use lab data from clinical trials (AdAM or SDTM preferred). To learn more you can:
 
+- See the package on [CRAN](https://cran.r-project.org/web/packages/safetyGraphics/index.html)
+- View the [vignette](https://cran.r-project.org/web/packages/safetyGraphics/vignettes/shinyUserGuide.html) for detailed guidance on using the Shiny application
 - Explore the [github repo](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safetyGraphics) for the package
 - Check out the underlying [javascript library](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safety-eDISH) used to create the [eDish Chart](https://asa-dia-interactivesafetygraphics.github.io/safety-eDISH/)
 - Try out a hosted version of the [shiny app](https://becca-krouse.shinyapps.io/safetyGraphicsApp/) (or run it locally using the code in the capsule summary above)
-- Check more [other interactive graphics](https://rhoinc.github.io/safety-explorer-suite/) for safety monitoring.  We also wrote [a paper](https://journals.sagepub.com/doi/abs/10.1177/2168479018754846) about these. Our plan is to add some of them to SafetyGraphics package in future releases.
-- Take a look at the [technical framework](https://user-images.githubusercontent.com/3680095/51296179-6f2b7b00-19e0-11e9-841a-afc2964a7e1a.png) using used to create the chart
+- Check out more [other interactive graphics](https://rhoinc.github.io/safety-explorer-suite/) for safety monitoring.  We also wrote [a paper](https://journals.sagepub.com/doi/abs/10.1177/2168479018754846) about these. Our plan is to add some of them to SafetyGraphics package in future releases.
+- Take a look at the [technical framework](https://user-images.githubusercontent.com/3680095/51296179-6f2b7b00-19e0-11e9-841a-afc2964a7e1a.png) being used to create the chart
 - See the Shiny App in action below: 
 
 ![edishapp-take2_smallish](https://user-images.githubusercontent.com/3680095/51296057-e3195380-19df-11e9-971a-430c3be930a4.gif)
