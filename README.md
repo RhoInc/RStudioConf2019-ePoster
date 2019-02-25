@@ -59,7 +59,7 @@ The safetyGraphics R package that allows users to evaluate clinical trial safety
 - Explore the [github repo](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safetyGraphics) for the package
 - Check out the underlying [javascript library](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safety-eDISH) used to create the [eDish Chart](https://asa-dia-interactivesafetygraphics.github.io/safety-eDISH/)
 - Try out a hosted version of the [shiny app](https://becca-krouse.shinyapps.io/safetyGraphicsApp/) (or run it locally using the code in the capsule summary above)
-- Check out more [other interactive graphics](https://rhoinc.github.io/safety-explorer-suite/) for safety monitoring.  We also wrote [a paper](https://journals.sagepub.com/doi/abs/10.1177/2168479018754846) about these. Our plan is to add some of them to SafetyGraphics package in future releases.
+- Check out more [interactive graphics](https://rhoinc.github.io/safety-explorer-suite/) for safety monitoring.  We also wrote [a paper](https://journals.sagepub.com/doi/abs/10.1177/2168479018754846) about these. Our plan is to add some of them to SafetyGraphics package in future releases.
 - Take a look at the [technical framework](https://user-images.githubusercontent.com/3680095/51296179-6f2b7b00-19e0-11e9-841a-afc2964a7e1a.png) being used to create the chart
 - See the Shiny App in action below: 
 
