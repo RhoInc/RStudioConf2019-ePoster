@@ -4,7 +4,7 @@ This repo contains the [slides](https://github.com/RhoInc/RStudioConf2019-ePoste
 
 ## Capsule Summary
 
-We introduced two R packages for use in clinical trial research: [safetyGraphics](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safetyGraphics) and [datadigest](https://github.com/RhoInc/datadigest). You can try them using the following code:  
+We introduced two R packages for use in clinical trial research: [safetyGraphics](https://github.com/SafetyGraphics/safetyGraphics) and [datadigest](https://github.com/RhoInc/datadigest). You can try them using the following code:  
 
 ``` 
 # safetyGraphics demo
@@ -44,11 +44,11 @@ We're working to create interactive tools that are:
 - **Agile** - Frequent releases with GitHub. 
 - **Engaging** - Regular Feedback from users. Pilot testing. Open issue tracking. 
 
-Both [safetyGraphics](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safetyGraphics) and [datadigest](https://github.com/RhoInc/datadigest) were created using these principles and are available now. 
+Both [safetyGraphics](https://github.com/SafetyGraphics/safetyGraphics) and [datadigest](https://github.com/RhoInc/datadigest) were created using these principles and are available now. 
 
 ## Examples 
 
-The [safetyGraphics](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safetyGraphics) and [datadigest](https://github.com/RhoInc/datadigest) repos were created using the "solutions" described above and are available now. 
+The [safetyGraphics](https://github.com/SafetyGraphics/safetyGraphics) and [datadigest](https://github.com/RhoInc/datadigest) repos were created using the "solutions" described above and are available now. 
 
 ### safetyGraphics
 
@@ -56,8 +56,8 @@ The safetyGraphics R package that allows users to evaluate clinical trial safety
 
 - See the package on [CRAN](https://cran.r-project.org/web/packages/safetyGraphics/index.html)
 - View the [vignette](https://cran.r-project.org/web/packages/safetyGraphics/vignettes/shinyUserGuide.html) for detailed guidance on using the Shiny application
-- Explore the [github repo](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safetyGraphics) for the package
-- Check out the underlying [javascript library](https://github.com/ASA-DIA-InteractiveSafetyGraphics/safety-eDISH) used to create the [eDish Chart](https://asa-dia-interactivesafetygraphics.github.io/safety-eDISH/)
+- Explore the [github repo](https://github.com/SafetyGraphics/safetyGraphics) for the package
+- Check out the underlying [javascript library](https://github.com/SafetyGraphics/safety-eDISH) used to create the [eDish Chart](https://safetygraphics.github.io/hep-explorer/test-page)
 - Try out a hosted version of the [shiny app](https://becca-krouse.shinyapps.io/safetyGraphicsApp/) (or run it locally using the code in the capsule summary above)
 - Check out more [interactive graphics](https://rhoinc.github.io/safety-explorer-suite/) for safety monitoring.  We also wrote [a paper](https://journals.sagepub.com/doi/abs/10.1177/2168479018754846) about these. Our plan is to add some of them to SafetyGraphics package in future releases.
 - Take a look at the [technical framework](https://user-images.githubusercontent.com/3680095/51296179-6f2b7b00-19e0-11e9-841a-afc2964a7e1a.png) being used to create the chart
